@@ -1,0 +1,16 @@
+Roundies sites, including Roundies.xyz and Dankest.xyz, are secure and safe, verified by SiteSECURE™.
+
+OUR COOKIES:
+We use third-party cookies to make sure the site runs smoothly. Disabling cookies may result in pats of the site not working properly, such as the registration form.
+
+YOUR IP:
+No, your IP will never be logged and shared with Roundies. Although, the site is powered by Google, so Google may log your IP. This shouldn't be a worry as Google log IPs from searches, meaning Google is most likely to already have your IP. If you're still concerened, Roundies doesn't block VPNs, so feel free to use one.
+
+PERSONAL INFO:
+No personal information is collected and shared with Roundies. All personal information is inevitably logged by Google, and is safe in their servers.
+
+GOOGLE PRIVACY POLICY:
+https://policies.google.com/privacy
+
+HTTPS OR HTTP:
+Our site should always redirect you to HTTPS, meaning we are secure. If it is stil showing as HTTP, try using an extension called HTTPS Everywhere (built into Firefox) or manually change it.
